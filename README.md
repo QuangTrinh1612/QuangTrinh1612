@@ -4,6 +4,12 @@
 [![Linkedin: QuocQuang](https://img.shields.io/badge/-QuocQuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinh-quoc-quang/)](https://www.linkedin.com/in/trinh-quoc-quang/)
 [![Facebook: QuocQuang](https://img.shields.io/badge/-QuocQuang-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Quangtrinh1993)
 
+A self-taught Data Engineer coming from finance background.  
+Eager to build insightful dashboard from scratch (do some cool stuffs as web scraping, ETL, dashboard design, ...)  
+Developing automatic tools which make my life easier (my previous job as auditor must be less struggling if I know coding before)  
+Applying Machine Learning in Crypto & Stock Trading  
+Still on my way to become a hardcore data engineer 
+
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="40">Databases
 #### *SQL*
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
