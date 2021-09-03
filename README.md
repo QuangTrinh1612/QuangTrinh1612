@@ -32,4 +32,6 @@ Still on my way to become a hardcore data engineer
 
 ### Cloud Solution
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+
+![FakeHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangTrinh1612&show_icons=true&theme=dracula)
