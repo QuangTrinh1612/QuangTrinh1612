@@ -1,5 +1,5 @@
 <h2>Hi, I'm Trinh Quoc Quang! <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="50"></h2>
-<p><em>Data Enginner at <a href="https://www.justanalytics.com/">Just Analytics</a> <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" width="30"></em></p>
+<p><em>Data Enginner at <a href="https://www.rackspace.com/">Rackspace Technology</a> <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" width="30"></em></p>
 
 [![Linkedin: QuocQuang](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinh-quoc-quang/)](https://www.linkedin.com/in/trinh-quoc-quang/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/trinhquocquang_1)](https://www.hackerrank.com/trinhquocquang_1)
