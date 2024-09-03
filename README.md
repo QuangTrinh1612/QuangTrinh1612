@@ -17,6 +17,12 @@ education:
   ]
 company: Rackspace Technology
 
+programming_languages:
+  [
+    "Python",
+    "Java",
+    "Scala"
+  ]
 fields_of_interests:
   [
     "Data Engineering",
