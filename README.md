@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!🕹️&animation=fadeIn&type=rounded&color=gradient&height=180"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!🕹️&animation=fadeIn&type=rounded&color=gradient&height=160"/>
 </p>
 <h2><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" height="30">ABOUT ME</h2>
 
