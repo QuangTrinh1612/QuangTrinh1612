@@ -54,6 +54,8 @@ hobbies: ["Travelling", "Trekking", "Manga"]
 <a href="https://learn.microsoft.com/en-us/users/quangtrinh-7488/credentials/e270ce249dc5dd57"><img src="assets\azure-da-enterprise.png" height="140"></a>
 <a href="https://verify.openedg.org/?id=nFgN.9UhN.fHWv"><img src="assets\python-associate.png" height="140"></a>
 
+<h2>TECH STACK</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -69,6 +71,8 @@ hobbies: ["Travelling", "Trekking", "Manga"]
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="40" alt="pytest logo"  />
 </div>
+
+<h2>PROFILE STATISTICS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuangTrinh1612&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
